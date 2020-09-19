@@ -1,7 +1,7 @@
-
 import 'package:flutter/material.dart';
 
 import 'app_body.dart';
+
 void main() => runApp(new MyApp());
 
 class MyApp extends StatefulWidget {
@@ -19,5 +19,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-
